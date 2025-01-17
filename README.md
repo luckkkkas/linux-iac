@@ -1,9 +1,10 @@
 # Linux - Infraestrutura como código 
 
-# criar_user.sh
-
 É criar arquivos de configuração padrão, minimizando erros e maximizando o tempo, todas as vezes cria users exatamente iguais em diferentes máquinas.
 Nao ha necessidade de ir ate a maquina realizar alterações, o código faz tudo.
+
+# criar_user.sh
+
 Objetivo do script: criar os arquivos abaixo utilizando um script de criação que possa ser reutilizado em máquinas futuras.
 
 DIRETÓRIOS:
