@@ -8,11 +8,8 @@ Objetivo do script: criar os arquivos abaixo utilizando um script de criação q
 DIRETÓRIOS:
 /publico, /adm, /ven, /sec,
 
-criar os grupos:
-Groups
+Grupos:
 GRP_ADM | GRP_VEN | GRP_SEC
 
-e os usuários abaixo:
-Carlos | Debora      | Josefina
-Maria  | Sebastiana  | Amanda
-Joao   | Roberto     | Rogério
+Usuários:
+Carlos, Debora, Josefina, Maria, Sebastiana, Amanda, Joao, Roberto, Rogério
