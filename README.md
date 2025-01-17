@@ -1,6 +1,5 @@
-# linux-projeto1-iac-
+# Linux - Infraestrutura como código 
 
-## infraestrutura como código 
 É criar arquivos de configuração padrão, minimizando erros e maximizando o tempo, todas as vezes cria users exatamente iguais em diferentes máquinas.
 Nao ha necessidade de ir ate a maquina realizar alterações, o código faz tudo.
 Objetivo do script: criar os arquivos abaixo utilizando um script de criação que possa ser reutilizado em máquinas futuras.
