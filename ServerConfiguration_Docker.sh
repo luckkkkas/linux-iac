@@ -6,6 +6,9 @@ apt upgrade -y
 
 # Instalando pacotes necessários
 apt install unzip apache2 openssh-server -y
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
+\. "$HOME/.nvm/nvm.sh"
+nvm install 22
 
 # Removendo pacotes conflitantes relacionados ao Docker
 for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do  
